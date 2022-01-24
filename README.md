@@ -14,7 +14,6 @@
 - 🔭 Sou Economista e MBA em BI e Data Warehouse
 - 🌱 Amo análise de dados com Python e estou me aprofundando em AI e ML
 - 📊 Domino Microsoft Power BI
-- 💬 Ask me about ...
 - 📫 Você pode entrar em contato pelo meu <a href="https://www.linkedin.com/in/helberborges/">LinkedIn</a>, pelo <a href="https://api.whatsapp.com/send?phone=5535984310123&text=Ol%C3%A1,%20H%C3%A9lber!%20Cliquei%20no%20seu%20link%20de%20contato%20no%20Github.">WhatsApp</a> ou no e-mail helbera.borges@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Sim, também tenho um mandato
