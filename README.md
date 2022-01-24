@@ -8,7 +8,7 @@
 </div>
 
 ### Olá, mundo! Eu sou o Hélber Borges!
-
+<b><i>Hello, World! I'm Hélber Borges!</b></i>
 ##
 
 - 🔭 Sou Economista e MBA em BI e Data Warehouse
