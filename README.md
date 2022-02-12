@@ -19,6 +19,8 @@
 <br>     <i>Microsoft Power BI Skills</i>
 - 📫 Você pode entrar em contato pelo meu <a href="https://www.linkedin.com/in/helberborges/">LinkedIn</a>, pelo <a href="https://api.whatsapp.com/send?phone=5535984310123&text=Ol%C3%A1,%20H%C3%A9lber!%20Cliquei%20no%20seu%20link%20de%20contato%20no%20Github.">WhatsApp</a> ou no e-mail helbera.borges@gmail.com
 <br>     <i>You can contact me at <a href="https://www.linkedin.com/in/helberborges/">LinkedIn</a>, at <a href="https://api.whatsapp.com/ send?phone=5535984310123&text=Hello%C3%A1,%20H%C3%A9lber!%20I clicked%20on%20your%20link%20from%20contact%20on%20Github.">WhatsApp</a> or email helbera.borges@gmail.com</i>
+- 📖 Leia meus artigos no Medium: https://helberborges.medium.com
+<br>     <i>Read my articles on Medium</i>
 - 😄 Pronomes: ele/dele
 <br>     <i>Pronouns: he/him</i>
 
