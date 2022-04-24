@@ -4,7 +4,7 @@
   <img align="center" alt="HB-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HB-Ps" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="HB-WP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="right" alt="HB-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFoEYOpIhBzew/profile-displayphoto-shrink_800_800/0/1591846088434?e=1648684800&v=beta&t=eESxnpzpzpiIIf8_n3f6XzFFnfTpDZ8pG-C8rmz_qn0">
+  <img align="right" alt="HB-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFoEYOpIhBzew/profile-displayphoto-shrink_200_200/0/1591846088434?e=1656547200&v=beta&t=dC2fMENDMRNuRRcV58OTvmGzHYKFkDfeppvMrXZUzzw">
 </div>
 
 ### Olá, mundo! Eu sou o Hélber Borges!
